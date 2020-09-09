@@ -1,0 +1,30 @@
+button{
+    background: chartreuse;
+    font-size: 40px;
+    color: cornflowerblue;
+    position: fixed;
+    top: 0;
+    right: 0;
+    cursor: pointer;
+}
+
+
+div {
+    border:5px solid black;
+    background: purple;
+    margin-top: 40px;
+    position: static;
+    
+}
+.one{
+    background: cadetblue;
+
+}
+.two{
+    background: limegreen;
+}
+.special{
+    background: magenta;
+    font-size: 20px;
+    position:absolute;
+}
